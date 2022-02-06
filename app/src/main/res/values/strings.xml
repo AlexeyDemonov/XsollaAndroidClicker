@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XsollaAndroidClicker</string>
+    <string name="email_placeholder">Email:</string>
+    <string name="password_placeholder">Password:</string>
+    <string name="login_button">LOGIN</string>
+    <string name="game_button">CLICK ME</string>
+    <string name="game_button_bonus">!CLICK ME x2!</string>
+    <string name="logout_button">LOG OUT</string>
+    <string name="buy_button">BUY BOOSTER</string>
+</resources>
